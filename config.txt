@@ -1,5 +1,6 @@
 <PadSetting>
-  <PadSettingChecksum>8bc501aa-eec6-ff63-29c4-bbe755fe33e3</PadSettingChecksum>
+  <PadSettingChecksum>b983313e-496b-91c5-7ff6-a583a4973c77</PadSettingChecksum>
+  <ButtonB>11</ButtonB>
   <ButtonX>16</ButtonX>
   <ButtonY>15</ButtonY>
   <DPadDown>d3</DPadDown>
@@ -16,7 +17,6 @@
   <RightShoulder>s-1</RightShoulder>
   <RightTrigger>a-2</RightTrigger>
   <ButtonADeadZone>8192</ButtonADeadZone>
-  <ButtonBDeadZone>8192</ButtonBDeadZone>
   <ButtonBackDeadZone>8192</ButtonBackDeadZone>
   <ButtonStartDeadZone>8192</ButtonStartDeadZone>
   <ButtonXDeadZone>8192</ButtonXDeadZone>
@@ -28,4 +28,5 @@
   <DPadDownDeadZone>8192</DPadDownDeadZone>
   <DPadLeftDeadZone>8192</DPadLeftDeadZone>
   <DPadRightDeadZone>8192</DPadRightDeadZone>
+  <DPadUpDeadZone>8192</DPadUpDeadZone>
 </PadSetting>
